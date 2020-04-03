@@ -3,7 +3,7 @@
 # Juan Daniel Ávila Caicedo
 
 ## About Me 
-- I'm a student of Systems Engineering at the University of San Buenaventura and course the 5th semester.
+- I'm student of Systems Engineering at the University of San Buenaventura and course the 5th semester.
 
 ![N|Solid](https://media.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif)
 

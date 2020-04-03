@@ -50,6 +50,12 @@ Exercises development in java
 ##
 # OTHER PROJECTS
 
+# [Covid19][PC19]
+This project was carried out using the JAVA COLLECTION API classes, the program will manage the data of people infected and killed in the countries of the world by COVID19.
+
+ [PC19]:<https://github.com/JDanAvila/Analysis-and-design-of-algorithms/tree/master/Covid19>
+
+##
 # [Times Pull][PTP]
 ![image info](https://i.pinimg.com/564x/73/d4/f8/73d4f8b6f219cbb34c8d46acf1f333b3.jpg)
 
@@ -61,6 +67,7 @@ It is about the use of data structure in a graphic environment for ultimate matc
 -Stack: it is used to add the male and female teams of the universities.
 
 -Queue: it is used for team confrontations.
+
 
 ##
   # Thanks for your attention Bro 🤙

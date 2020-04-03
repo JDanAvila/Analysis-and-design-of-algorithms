@@ -3,13 +3,17 @@
 # Juan Daniel Ávila Caicedo
 
 ## About Me 
-- I am a student of Systems Engineering at the University of San Buenaventura and course the 5th semester.
+- I'm a student of Systems Engineering at the University of San Buenaventura and course the 5th semester.
+
 ![N|Solid](https://media.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif)
 
 - Ultimate Frisbe Player
+
 ![N|Solid](https://media.giphy.com/media/Ss0ljnArSulDNlLoUT/giphy.gif)
 
-- Junior programmer.  ![N|Solid](https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif))
+- Junior programmer
+
+![N|Solid](https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif))
   
 ##
 # PROGRAMMING MARATHONS

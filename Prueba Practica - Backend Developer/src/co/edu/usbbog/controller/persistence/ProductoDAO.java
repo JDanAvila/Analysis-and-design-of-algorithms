@@ -110,7 +110,7 @@ public class ProductoDAO implements ProductoDTO{
     @Override
     public Producto buscarPorId(int id) {
         Producto producto = null;
-        String sql="SELECT * producto WHERE id = " + id+";";
+        String sql="SELECT * FROM producto WHERE id = " + id+";";
         System.out.println(sql);
         if(this.mySQL.conectar()){
             try {

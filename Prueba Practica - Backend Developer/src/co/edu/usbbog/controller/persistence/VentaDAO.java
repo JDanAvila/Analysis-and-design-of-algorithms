@@ -103,7 +103,7 @@ String sql = "UPDATE venta SET ";
     @Override
     public Venta buscarPorId(int id) {
         Venta venta = null;
-        String sql="SELECT * venta WHERE id = " + id+";";
+        String sql="SELECT * venta WHERE id = " + id +";";
         System.out.println(sql);
         if(this.mySQL.conectar()){
             try {
